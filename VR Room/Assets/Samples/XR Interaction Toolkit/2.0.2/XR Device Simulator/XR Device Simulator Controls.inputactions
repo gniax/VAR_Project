@@ -427,7 +427,7 @@
                     "id": "d4eea084-356a-42c1-8dc8-f10819b9de79",
                     "path": "<Gamepad>/rightStick",
                     "interactions": "",
-                    "processors": "ScaleVector2(x=40,y=40)",
+                    "processors": "ScaleVector2(x=20,y=20)",
                     "groups": "",
                     "action": "Mouse Delta",
                     "isComposite": false,
